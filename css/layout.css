@@ -1,0 +1,16 @@
+html * {
+    margin: 0px;
+    padding: 0px;
+}
+.navbar {
+    height: 60px;
+    background: #ddd;
+    color: white;
+    width: 100vw;
+}
+
+.mainbody {
+    overflow: hidden;
+    height: auto;
+    width: 100vw;
+}
